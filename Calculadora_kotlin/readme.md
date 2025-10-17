@@ -1,4 +1,4 @@
-##Encapsulamiento
+## Encapsulamiento
 Aplicación en el código:
 
 -Variables protegidas (protected) para memoria e historial
