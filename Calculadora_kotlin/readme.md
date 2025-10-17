@@ -18,6 +18,7 @@ Aplicación en el código:
 -Facilita el mantenimiento y evolución del código
 
 ## Herencia
+
 Implementación:
 
 -Clase base Calculadora con operaciones aritméticas básicas
