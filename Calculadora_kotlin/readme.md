@@ -17,7 +17,7 @@ Aplicación en el código:
 
 -Facilita el mantenimiento y evolución del código
 
-##Herencia
+## Herencia
 Implementación:
 
 -Clase base Calculadora con operaciones aritméticas básicas
@@ -36,7 +36,7 @@ Implementación:
 
 -Organización clara de responsabilidades
 
-##Polimorfismo
+## Polimorfismo
 Aplicación práctica:
 
 Sobrecarga de métodos: Múltiples versiones de sumar, restar, etc. para diferentes tipos de datos
@@ -74,7 +74,7 @@ Implementación:
 
 -Fácil depuración y mantenimiento
 
-##Conclusión
+## Conclusión
 -La implementación demuestra una aplicación efectiva de los principios POO, resultando en:
 
 -Código mantenible y organizado
