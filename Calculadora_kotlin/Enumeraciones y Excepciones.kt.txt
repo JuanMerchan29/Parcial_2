@@ -1,0 +1,5 @@
+enum class AnguloModo {
+    GRADOS, RADIANES
+}
+
+class CalculadoraException(mensaje: String) : Exception(mensaje)
