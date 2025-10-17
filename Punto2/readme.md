@@ -1,4 +1,4 @@
-##Componentes Clave del Sistema
+## Componentes Clave del Sistema
 1. Agentes de Operación
 
 Especializados en operaciones matemáticas específicas
