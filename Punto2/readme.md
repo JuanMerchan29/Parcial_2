@@ -25,7 +25,7 @@ Bandejas de entrada para cada agente
 
 Entrega centralizada de mensajes a través del modelo
 
-##Sincronización y Entrega de Mensajes
+## Sincronización y Entrega de Mensajes
 
 Gestión de Estados:
 
@@ -35,7 +35,7 @@ El agente E/S rastrea dependencias entre tareas
 
 Solo se envían tareas cuyos operandos están disponibles
 
-##Manejo de Errores
+## Manejo de Errores
 
 Control de Errores Matemáticos:
 
